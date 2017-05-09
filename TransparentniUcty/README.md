@@ -1,13 +1,16 @@
-# Kontrola transparetnich uctu
-
-Kontrola dat z parseru z ČSOB
+# Kontrola dat z parseru z ČSOB
 > je poměrně komplikovaný
 > z nestrukturovaného PDF se první udělá strukturovaný Excel
 > a ten se analyzuje (posuny sloupcu apod) a zparsuje.
    
+## S čím potřebuju pomoci
+- [ ] Zkontrolovat, že ucet\*.json obsahují všechny položky z výpisů z účtu v PDF, které obsahují cenu
+- [ ] Zkontrolovat, že ucet\*.json obsahují všechny podstatné údaje z položek v PDF a že jsou správně (viz struktura json níže)
+
+   
 ## Soubory   
 * ucty.json - pár vybraných účtů ke kontrole, struktura je popisna
-* ucet*.json - položky z výpisu účtů
+* ucet\*.json - položky z výpisu účtů
 
 struktura jedné položky z účtu
 
