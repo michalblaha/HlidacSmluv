@@ -14,7 +14,7 @@
 
 struktura jedné položky z účtu
 
-```
+```json
   {
     "Id": "693d2ec5-76c6-4a53-a2a3-111edea2ad23",  //unikatni ID
     "CisloUctu": "478648033/0300",                 //cislo uctu, ve kterem polozka je. Povinne
