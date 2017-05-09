@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "117527703/0300",
+    "Subject": "KSČM – volby do Evropského parlamentu",
+    "Url": "https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/117527703",
+    "CisloUctu": "117527703/0300",
+    "Mena": "Kč",
+    "TypUctu": 2
+  },
+  {
+    "Id": "117527893/0300",
+    "Subject": "KSČM – volby do Senátu",
+    "Url": "https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/117527893",
+    "CisloUctu": "117527893/0300",
+    "Mena": "Kč",
+    "TypUctu": 2
+  },
+  {
+    "Id": "3918378/0300",
+    "Subject": "KSČM – příjem ze státního rozpočtu",
+    "Url": "https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/3918378",
+    "CisloUctu": "3918378/0300",
+    "Mena": "Kč",
+    "TypUctu": 1
+  },
+  {
+    "Id": "117831473/0300",
+    "Subject": "KSČM – volby do Poslanecké sněmovny",
+    "Url": "https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/117831473",
+    "CisloUctu": "117831473/0300",
+    "Mena": "Kč",
+    "TypUctu": 2
+  },
+  {
+    "Id": "478648033/0300",
+    "Subject": "KSČM – finanční dary",
+    "Url": "https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/478648033",
+    "CisloUctu": "478648033/0300",
+    "Mena": "Kč",
+    "TypUctu": 1
+  },
+  {
+    "Id": "276829741/0300",
+    "Subject": "MICHAL HORÁČEK",
+    "Url": "https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/276829741",
+    "CisloUctu": "276829741/0300",
+    "Mena": "Kč",
+    "TypUctu": 1
+  }
+]
