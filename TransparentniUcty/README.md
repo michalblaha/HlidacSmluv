@@ -1,10 +1,11 @@
-#Kontrola transparetnich uctu
+# Kontrola transparetnich uctu
 
-##Kontrola parseru z ČSOB, který je poměrně komplikovaný
-   z nestrukturovaného PDF se první udělá strukturovaný Excel
-   a ten se analyzuje (posuny sloupcu apod) a zparsuje.
+Kontrola dat z parseru z ČSOB
+> je poměrně komplikovaný
+> z nestrukturovaného PDF se první udělá strukturovaný Excel
+> a ten se analyzuje (posuny sloupcu apod) a zparsuje.
    
-##Soubory   
+## Soubory   
 * ucty.json - pár vybraných účtů ke kontrole, struktura je popisna
 * ucet*.json - položky z výpisu účtů
 
