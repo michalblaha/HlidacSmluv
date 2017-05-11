@@ -30,3 +30,16 @@ struktura jedné položky z účtu
     "AddId": "51201704030473932"                   //Někdy obsahuje unikátní číslo transakce v bance
   }
 ```
+
+
+-------------------
+
+Pokud nevyhovují JSON soubory, zde jsou ty same soubory jako Google Spreadsheet
+
+https://docs.google.com/spreadsheets/d/1Kvz-jx0maGlwP6jDu2U3cWOIiUQrCFWjBwYW1RNEFGI/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1qFnIjaL5ZyVzB-pDFojGDyjzhCodZVmPwXk3pC1uuLU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1kdQtYP-4-LZAbIeDs1lwDusDZcPca7p3b_dyghrEGuM/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1das0qdo6jHRiOZ399DnM0wy1Q5tEZUVImRcwSsz08fU/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1Q0m7NT3-XxsWbtGCmT1Rt4TOcQRuxyQ1ilQVdJhQM-s/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1nVi6GhX8u9FZWz8h8Tzzu3z6-F27jjZIrPjFR3M3NRY/edit?usp=sharing
+
