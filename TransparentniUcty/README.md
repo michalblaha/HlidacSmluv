@@ -4,8 +4,8 @@
 > a ten se analyzuje (posuny sloupcu apod) a zparsuje.
    
 ## S čím potřebuju pomoci
-- [ ] Zkontrolovat, že ucet\*.json obsahují všechny položky z výpisů z účtu v PDF, které obsahují cenu
-- [ ] Zkontrolovat, že ucet\*.json obsahují všechny podstatné údaje z položek v PDF a že jsou správně (viz struktura json níže)
+- [x] Zkontrolovat, že ucet\*.json obsahují všechny položky z výpisů z účtu v PDF, které obsahují cenu
+- [x] Zkontrolovat, že ucet\*.json obsahují všechny podstatné údaje z položek v PDF a že jsou správně (viz struktura json níže)
 
    
 ## Soubory   
@@ -30,6 +30,20 @@ struktura jedné položky z účtu
     "AddId": "51201704030473932"                   //Někdy obsahuje unikátní číslo transakce v bance
   }
 ```
+
+## Kontrola
+
+* ruby 2.2.0+
+
+`./checker.rb soubor.json`
+
+priklad vystupu
+````
+ERR: invalid attribute 'CisloProtiuctu' (val: '86-898461023 7 /O 100') in {"Id"=>"3098de78-d90b-4862-a43b-9b8b106151d2", 
+"CisloUctu"=>"117527893/0300", "Datum"=>"2014-10-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", 
+"CisloProtiuctu"=>"86-898461023 7 /O 100", "ZpravaProPrijemce"=>"volby senát-reklama", "VS"=>"14501661", 
+"KS"=>"", "SS"=>"", "Castka"=>-30250.0, "AddId"=>"17201410240115750"}
+````
 
 
 -------------------
