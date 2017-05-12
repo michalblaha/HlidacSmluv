@@ -1,0 +1,20 @@
+ERR: invalid attribute 'CisloProtiuctu' (val: '9713840297 /O 100') in {"Id"=>"814d03be-3ac6-4c48-93fe-65f0539ded6e", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-04-05T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"KSČM-OLOMOUCKÝ KRAJS", "CisloProtiuctu"=>"9713840297 /O 100", "ZpravaProPrijemce"=>"PŘEVOD OD KV KSČM OLOMOUC", "VS"=>"0000037100", "KS"=>"", "SS"=>"", "Castka"=>300000.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '1264 783349/0800') in {"Id"=>"b7c523ca-7187-400a-8365-fa0a8baf581c", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-04-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"1264 783349/0800", "ZpravaProPrijemce"=>"volby PČR-pozvánky Město Semily", "VS"=>"4004170342", "KS"=>"", "SS"=>"", "Castka"=>-50.0, "AddId"=>"17201704240159636"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2735051 /O 100') in {"Id"=>"8869cfc7-e972-4c4f-a4c4-c7abe2adf328", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-04-25T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"KOMUNISTICKÁ STRANA", "CisloProtiuctu"=>"2735051 /O 100", "ZpravaProPrijemce"=>"", "VS"=>"0000031105", "KS"=>"0000000000", "SS"=>"", "Castka"=>40000.0, "AddId"=>"51201704250278794"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2015340111 /6000') in {"Id"=>"4ef45336-bcf0-429b-bf71-b7b7b288993f", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-04-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"2015340111 /6000", "ZpravaProPrijemce"=>"volby PČR-e.přípojky", "VS"=>"312170073", "KS"=>"", "SS"=>"", "Castka"=>-13855.0, "AddId"=>"17201704280125558"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"05c17dec-6607-476f-8f39-1c2769492523", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-do CC", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>"201703314936"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '24900304 7 /0300') in {"Id"=>"02f8ca2f-4ae3-4f37-887e-e1a40097202e", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"KSCM", "CisloProtiuctu"=>"24900304 7 /0300", "ZpravaProPrijemce"=>"", "VS"=>"37102", "KS"=>"Konec výpisu", "SS"=>"", "Castka"=>30000.0, "AddId"=>"51201702280542133"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"7c2b4713-538c-476b-97bd-e637b7b35d90", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"TPS-man-došlo-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>"201701314934"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"9718fe7b-5f78-4900-964c-674ce1e95477", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>"201701314935"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"1f5a5e65-47d5-4406-bee3-23d6632de424", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-do CC", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-36.0, "AddId"=>"201701314936"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"cab9a70f-b1ba-43ac-b677-2d9668f58576", "CisloUctu"=>"117831473/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 31JAN17", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-0.85, "AddId"=>"201701319999"}
+ 

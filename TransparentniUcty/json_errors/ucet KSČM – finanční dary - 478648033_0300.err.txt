@@ -1,0 +1,144 @@
+ERR: invalid attribute 'CisloProtiuctu' (val: '78-6907560257 /0100') in {"Id"=>"56ccbfd4-eb90-4b8e-8d69-bb0da04441f0", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-13T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"BELEJOVÁ RENÁTA", "CisloProtiuctu"=>"78-6907560257 /0100", "ZpravaProPrijemce"=>"", "VS"=>"7503102783", "KS"=>"0000000000", "SS"=>"", "Castka"=>550.0, "AddId"=>"51201704130227977"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '670100-2201996747/621 O') in {"Id"=>"6a8ea8fc-80e0-4b51-bdba-7aea4506a928", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-13T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"VACLAV STEKL", "CisloProtiuctu"=>"670100-2201996747/621 O", "ZpravaProPrijemce"=>"VACLAV STEKL- FINANCNI DAR", "VS"=>"0000760621", "KS"=>"0000033200", "SS"=>"", "Castka"=>9158.0, "AddId"=>"51201704130042716"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '77987 4173/0800') in {"Id"=>"0ba3d9b9-32bd-4487-8e2c-f6f0e0fe5bba", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-18T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Bartůňková Věra", "CisloProtiuctu"=>"77987 4173/0800", "ZpravaProPrijemce"=>"Věra Bartůňková - finanční dar", "VS"=>"", "KS"=>"", "SS"=>"34100", "Castka"=>100.0, "AddId"=>"51201704181814191"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '160988337 /0600') in {"Id"=>"93a1b10d-9ef1-4164-b204-3526ccc06019", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-18T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"ŠVESTKA JAN", "CisloProtiuctu"=>"160988337 /0600", "ZpravaProPrijemce"=>"KSČM", "VS"=>"", "KS"=>"0000034202", "SS"=>"", "Castka"=>286.0, "AddId"=>"51201704182080695"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2300516024/201 O') in {"Id"=>"071daab0-26d6-4b80-9bcf-378eef12b306", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-18T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Pospíšil, Zdeněk", "CisloProtiuctu"=>"2300516024/201 O", "ZpravaProPrijemce"=>"RSDr Zdeněk Pospíšil-finanční dar", "VS"=>"", "KS"=>"", "SS"=>"34202", "Castka"=>361.0, "AddId"=>"51201704182665851"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '77987 4173/0800') in {"Id"=>"705a5ec7-c2ed-48a3-848e-1b1ff9c01b62", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-18T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Bartůňková Věra", "CisloProtiuctu"=>"77987 4173/0800", "ZpravaProPrijemce"=>"Věra Bartůňková,Karlovy Vary - fina", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>600.0, "AddId"=>"51201704181814190"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '129092671 /0300') in {"Id"=>"1f8546f7-b7dd-4bf8-82cd-3f07e0ebc286", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-18T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"STRACHON IVAN", "CisloProtiuctu"=>"129092671 /0300", "ZpravaProPrijemce"=>"", "VS"=>"", "KS"=>"0000", "SS"=>"", "Castka"=>1500.0, "AddId"=>"51201704181028011"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '1O13058898/6100') in {"Id"=>"3cfb2bae-90ca-469e-ac22-28805f16f541", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-19T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Barbora Vojtová", "CisloProtiuctu"=>"1O13058898/6100", "ZpravaProPrijemce"=>"Barbora Vojtová - finanční dar", "VS"=>"", "KS"=>"", "SS"=>"34100", "Castka"=>100.0, "AddId"=>"51201704190358634"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '22177 4 7083/0800') in {"Id"=>"8485d931-a34a-43d4-a5fc-b024d599ff9c", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Vondrášková Iveta", "CisloProtiuctu"=>"22177 4 7083/0800", "ZpravaProPrijemce"=>"František Znamenáček CV - dar", "VS"=>"", "KS"=>"", "SS"=>"34202", "Castka"=>350.0, "AddId"=>"51201704240480673"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6684450287 /0100') in {"Id"=>"dcfaf705-c2ed-4852-a8c6-3f4dc9dd2d8e", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"LIŠKOVÁ ZDEŇKA", "CisloProtiuctu"=>"19-6684450287 /0100", "ZpravaProPrijemce"=>"ZDEŇKA LIŠKOVÁ-FINANČNÍ DAR ZDEŇK", "VS"=>"0000032017", "KS"=>"0000000558", "SS"=>"", "Castka"=>1568.0, "AddId"=>"51201704240119809"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '531627 4/0300') in {"Id"=>"17283f70-de16-40f5-91cb-0d77642a2936", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"COUFALOVA KATERINA", "CisloProtiuctu"=>"531627 4/0300", "ZpravaProPrijemce"=>"Zbyněk Coufal - finanční dar", "VS"=>"", "KS"=>"", "SS"=>"32100", "Castka"=>1688.0, "AddId"=>"51201704240198236"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '670100-2207951910/621 O') in {"Id"=>"594bde81-c362-4094-9712-7475c3273071", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-04-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"ZDENKA SZUKALSKA", "CisloProtiuctu"=>"670100-2207951910/621 O", "ZpravaProPrijemce"=>"ING. ZDENKA SZUKALSKÁ- FINANČNÍ DA", "VS"=>"5959137294", "KS"=>"0308", "SS"=>"", "Castka"=>2898.0, "AddId"=>"51201704240647972"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '260055487 4/201 O') in {"Id"=>"edbbbf62-78e6-420f-8316-0f9fb7b74239", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-09T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Ernestová, Irena", "CisloProtiuctu"=>"260055487 4/201 O", "ZpravaProPrijemce"=>"Ernestová Irena - dar únor", "VS"=>"", "KS"=>"0558", "SS"=>"", "Castka"=>1306.0, "AddId"=>"51201703090435411"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '27739057 4/0300') in {"Id"=>"ba18e080-7e04-44e0-88f6-936cf2d8c064", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-09T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"SIMUNEK PETR", "CisloProtiuctu"=>"27739057 4/0300", "ZpravaProPrijemce"=>"Petr Šimůnek - finanční dar", "VS"=>"", "KS"=>"0308", "SS"=>"31100", "Castka"=>5000.0, "AddId"=>"51201703090212802"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '78-6907560257 /0100') in {"Id"=>"46d00b98-d8ab-4e21-a51c-0afe7e64e599", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-13T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"BELEJOVÁ RENÁTA", "CisloProtiuctu"=>"78-6907560257 /0100", "ZpravaProPrijemce"=>"", "VS"=>"7503102783", "KS"=>"0000000000", "SS"=>"", "Castka"=>550.0, "AddId"=>"51201703130166237"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '35-397 4040207 /0100') in {"Id"=>"03eb4211-45a1-438a-b833-0a17b5dfeea7", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-14T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"ZIMOVÁ HANA", "CisloProtiuctu"=>"35-397 4040207 /0100", "ZpravaProPrijemce"=>"Vladimír Zima - finanční dar", "VS"=>"0000000000", "KS"=>"0000000558", "SS"=>"", "Castka"=>100.0, "AddId"=>"51201703140398886"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '1O13058898/6100') in {"Id"=>"818a92f7-75a3-4c44-913c-82d56e22a572", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-14T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Barbora Vojtová", "CisloProtiuctu"=>"1O13058898/6100", "ZpravaProPrijemce"=>"Barbora Vojtová - finanční dar", "VS"=>"", "KS"=>"", "SS"=>"34100", "Castka"=>100.0, "AddId"=>"51201703140523319"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '78-7004590257 /0100') in {"Id"=>"e3ac0d46-09f9-4cdc-bc79-4d41c98f6a92", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-14T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"HARTMANNOVÁ MARTA", "CisloProtiuctu"=>"78-7004590257 /0100", "ZpravaProPrijemce"=>"ASISTENT", "VS"=>"7451032798", "KS"=>"0000000000", "SS"=>"", "Castka"=>1194.0, "AddId"=>"51201703140420773"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '670100-2201996747/621 O') in {"Id"=>"35e14795-3507-48b7-ac43-2663bdaf0d5d", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-14T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"VACLAV STEKL", "CisloProtiuctu"=>"670100-2201996747/621 O", "ZpravaProPrijemce"=>"VACLAV STEKL, PLZEN - FINANCNI DAR", "VS"=>"0000760621", "KS"=>"", "SS"=>"", "Castka"=>1300.0, "AddId"=>"51201703140011402"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '670100-2201996747/621 O') in {"Id"=>"4241a020-7c86-4ea0-8870-6088716f654b", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-14T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"VACLAV STEKL", "CisloProtiuctu"=>"670100-2201996747/621 O", "ZpravaProPrijemce"=>"VACLAV STEKL- FINANCNI DAR", "VS"=>"0000760621", "KS"=>"", "SS"=>"", "Castka"=>9158.0, "AddId"=>"51201703140007638"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '77987 4173/0800') in {"Id"=>"36faf970-f2ee-4376-a008-afbe4c78841f", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-15T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Bartůňková Věra", "CisloProtiuctu"=>"77987 4173/0800", "ZpravaProPrijemce"=>"Věra Bartůňková - finanční dar", "VS"=>"", "KS"=>"", "SS"=>"34100", "Castka"=>100.0, "AddId"=>"51201703151077016"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '160988337 /0600') in {"Id"=>"7f808dd5-edb7-4fb8-a43e-19aa06d45c1d", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-15T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"ŠVESTKA JAN", "CisloProtiuctu"=>"160988337 /0600", "ZpravaProPrijemce"=>"KSČM", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>286.0, "AddId"=>"51201703151204332"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '77987 4173/0800') in {"Id"=>"99e7df03-0772-44ab-8300-f0252f280d86", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-15T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Bartůňková Věra", "CisloProtiuctu"=>"77987 4173/0800", "ZpravaProPrijemce"=>"Věra Bartůňková,Karlovy Vary - fina", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>600.0, "AddId"=>"51201703151077015"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6684450287 /0100') in {"Id"=>"e379e371-b836-4193-b46e-5d9d00d33ed5", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-21T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"LIŠKOVÁ ZDEŇKA", "CisloProtiuctu"=>"19-6684450287 /0100", "ZpravaProPrijemce"=>"ZDEŇKA LIŠKOVÁ-FINANČNÍ DAR ZDEŇK", "VS"=>"0000022017", "KS"=>"0000000558", "SS"=>"", "Castka"=>1568.0, "AddId"=>"51201703210273971"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '17 40449123/0800') in {"Id"=>"a0fbf37f-a978-4190-a005-d4bf5ba0525d", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-21T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Šikýř Petr,Bc.", "CisloProtiuctu"=>"17 40449123/0800", "ZpravaProPrijemce"=>"asistent poslance", "VS"=>"620110289", "KS"=>"", "SS"=>"", "Castka"=>1693.0, "AddId"=>"51201703210386956"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-8755090207 /0100') in {"Id"=>"5da5e0c0-1ea2-4a98-88c2-9448d16103af", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-21T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"ŠULDA LUDVÍK", "CisloProtiuctu"=>"19-8755090207 /0100", "ZpravaProPrijemce"=>"LUDVÍ", "VS"=>"0020032017", "KS"=>"0000000308", "SS"=>"", "Castka"=>18015.0, "AddId"=>"51201703210274993"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '57 4269463/0300') in {"Id"=>"aa973b8b-ef3e-4e04-9ac3-06906a4eab34", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-23T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"JAROSOVA MARIE", "CisloProtiuctu"=>"57 4269463/0300", "ZpravaProPrijemce"=>"MARIE JAROŠOVÁ FIN. DAR", "VS"=>"", "KS"=>"0000", "SS"=>"", "Castka"=>5886.0, "AddId"=>"51201703230511029"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '22177 4 7083/0800') in {"Id"=>"ec54388b-b096-4df7-9766-25b5038e215a", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Vondrášková Iveta", "CisloProtiuctu"=>"22177 4 7083/0800", "ZpravaProPrijemce"=>"František Znamenáček CV - dar", "VS"=>"", "KS"=>"", "SS"=>"34202", "Castka"=>350.0, "AddId"=>"51201703240207656"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '494 756173/0800') in {"Id"=>"e2d3e83d-f601-49c9-a589-9fb5f4c0275f", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-27T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Tesařík Zdeněk", "CisloProtiuctu"=>"494 756173/0800", "ZpravaProPrijemce"=>"Tesařík Zdeněk - finanční dar", "VS"=>"", "KS"=>"", "SS"=>"36200", "Castka"=>400.0, "AddId"=>"51201703270158542"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '207 4990093/0800') in {"Id"=>"a1b7ffa7-d439-4680-979e-d49feec8a694", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-27T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Smutný Bohumil", "CisloProtiuctu"=>"207 4990093/0800", "ZpravaProPrijemce"=>"Bohumil Smutný Finanční dar", "VS"=>"", "KS"=>"", "SS"=>"36200", "Castka"=>400.0, "AddId"=>"51201703270167013"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"87c2afde-fe87-4072-af33-e8edf4f1ff49", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-výpis z úč.", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-40.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"0acb4e95-bf3a-4c59-8fbc-da6e8b8d2670", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-poštovné v ČR", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-64.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"e5f71d1c-c49d-4646-8b5d-06b0e663a5de", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-vedení účtu", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-200.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"108a43b3-c1b9-4bf2-bca3-1f94db8b71e9", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-došlo-man", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-936.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"141bf7a0-6988-424b-b62e-9c6431edbb0a", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"TPS-man-došlo-interní", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-261.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"a6c34b70-4cae-464c-9f73-d09cb3222937", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-do CC", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"c12410c1-a219-4d47-b2f1-a02032e84d37", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 31MAR17", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>1623.45, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2730060207 IO 100') in {"Id"=>"2ade04fb-f6ff-4807-8a8b-3a441fad50c4", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-01T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"PLODÍK MILAN", "CisloProtiuctu"=>"2730060207 IO 100", "ZpravaProPrijemce"=>"", "VS"=>"5606101083", "KS"=>"0000000000", "SS"=>"", "Castka"=>734.0, "AddId"=>"51201702010114988"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '670100-2201996747/621 O') in {"Id"=>"6c3c5e2f-05b7-443e-8f52-9e95eebeebaa", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-13T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"VACLAV STEKL", "CisloProtiuctu"=>"670100-2201996747/621 O", "ZpravaProPrijemce"=>"VACLAV STEKL, PLZEN - FINANCNI DAR", "VS"=>"0000760621", "KS"=>"", "SS"=>"", "Castka"=>1241.0, "AddId"=>"51201702131043234"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '551156001 /5500') in {"Id"=>"d7d8deda-b5ea-47d6-889d-54f00260bcdc", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-13T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Zdeněk Štefek", "CisloProtiuctu"=>"551156001 /5500", "ZpravaProPrijemce"=>"Zdeněk Štefek - finanční dar", "VS"=>"", "KS"=>"0308", "SS"=>"32100", "Castka"=>1892.0, "AddId"=>"51201702131081351"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '78-7004590257 /0100') in {"Id"=>"29909941-0214-4b1f-a360-17fb48a6d483", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-14T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"HARTMANNOVÁ MARTA", "CisloProtiuctu"=>"78-7004590257 /0100", "ZpravaProPrijemce"=>"ASISTENT", "VS"=>"7451032798", "KS"=>"0000000000", "SS"=>"", "Castka"=>1194.0, "AddId"=>"51201702140218854"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '77987 4173/0800') in {"Id"=>"e93cf72b-6aeb-4454-bcc0-7b6e5a012b39", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-15T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Bartůňková Věra", "CisloProtiuctu"=>"77987 4173/0800", "ZpravaProPrijemce"=>"Věra Bartůňková,Karlovy Vary - fina", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>550.0, "AddId"=>"51201702151095128"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2300516024/201 O') in {"Id"=>"1680cafe-f191-4958-a1e1-94cf0c345b9e", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-16T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Pospíšil, Zdeněk", "CisloProtiuctu"=>"2300516024/201 O", "ZpravaProPrijemce"=>"RSDr Zdeněk Pospíšil-finanční dar", "VS"=>"", "KS"=>"", "SS"=>"34202", "Castka"=>361.0, "AddId"=>"51201702160014250"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2344 76642/0300') in {"Id"=>"3507920f-52fb-4f0d-b2a0-bdc1dd58e6da", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-16T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"SLAMBOR JAROSLAV", "CisloProtiuctu"=>"2344 76642/0300", "ZpravaProPrijemce"=>"Jaroslav Šlambor_Prostějov_finanční", "VS"=>"", "KS"=>"", "SS"=>"322", "Castka"=>5750.0, "AddId"=>"51201702160863377"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '436381/O100') in {"Id"=>"89678c9f-6136-4500-9df1-bbd4a0ddfd37", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"436381/O100", "ZpravaProPrijemce"=>"dotace ov rokycany s.šidlo", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-4000.0, "AddId"=>"17201702240078304"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '494 756173/0800') in {"Id"=>"ecad5d9a-1942-4951-88ae-f4c82d19e7a8", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-27T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Tesařík Zdeněk", "CisloProtiuctu"=>"494 756173/0800", "ZpravaProPrijemce"=>"Tesařík Zdeněk - finanční dar", "VS"=>"", "KS"=>"", "SS"=>"36200", "Castka"=>400.0, "AddId"=>"51201702270463610"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '207 4990093/0800') in {"Id"=>"cfc802eb-0917-468c-9e40-ce914367e534", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-27T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Smutný Bohumil", "CisloProtiuctu"=>"207 4990093/0800", "ZpravaProPrijemce"=>"Bohumil Smutný Finanční dar", "VS"=>"", "KS"=>"", "SS"=>"36200", "Castka"=>400.0, "AddId"=>"51201702270472111"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"b11c2956-6eec-4e7b-a46e-94ac8a978b7c", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-poštovné v ČR", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-64.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"5da17895-a862-4f64-bd8a-8602496cfd21", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-vedení účtu", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-200.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"4b69e3a5-b9e8-4f25-b286-f1f9bf762c23", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-došlo-man", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-702.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"531d28a9-c294-41a1-b5f5-1578c4f9c4b5", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"TPS-man-došlo-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-207.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"c0956a9f-3dee-4fc2-975b-923adb209ed1", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-54.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"9e4941d7-9d77-47cd-8828-288294d3a56e", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-do CC", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-72.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '207 4 70480/0600') in {"Id"=>"241a20a7-db82-4450-a9d9-41340162d01f", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-05T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"HOJDA PAVEL", "CisloProtiuctu"=>"207 4 70480/0600", "ZpravaProPrijemce"=>"Pavel Hojda - finanční dar.", "VS"=>"0000521102", "KS"=>"", "SS"=>"", "Castka"=>715.0, "AddId"=>"51201701050525700"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2300516024/201 O') in {"Id"=>"a8e2bfdb-8424-4755-a5da-f0671e8264fb", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-16T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Pospíšil, Zdeněk", "CisloProtiuctu"=>"2300516024/201 O", "ZpravaProPrijemce"=>"RSDr Zdeněk Pospíšil-finanční dar", "VS"=>"", "KS"=>"", "SS"=>"34202", "Castka"=>361.0, "AddId"=>"51201701161959127"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '77987 4173/0800') in {"Id"=>"e6df56ec-4fcb-45f6-96f6-11aab022030b", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-16T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Bartůňková Věra", "CisloProtiuctu"=>"77987 4173/0800", "ZpravaProPrijemce"=>"Věra Bartůňková,Karlovy Vary - fina", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>414.0, "AddId"=>"51201701161522349"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6684450287 /0100') in {"Id"=>"dcb0c5e5-1f0c-4e45-a732-0a6dee25542d", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-23T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"LIŠKOVÁ ZDEŇKA", "CisloProtiuctu"=>"19-6684450287 /0100", "ZpravaProPrijemce"=>"ZDEŇKA LIŠKOVÁ-FINANČNÍ DAR ZDEŇK", "VS"=>"0000122016", "KS"=>"0000000558", "SS"=>"", "Castka"=>579.0, "AddId"=>"51201701230099556"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '17 40449123/0800') in {"Id"=>"648ee51a-86ce-4d78-a86a-92eaa026132b", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-23T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Šikýř Petr,Bc.", "CisloProtiuctu"=>"17 40449123/0800", "ZpravaProPrijemce"=>"asistent poslance", "VS"=>"620110289", "KS"=>"", "SS"=>"", "Castka"=>1693.0, "AddId"=>"51201701230495461"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '22177 4 7083/0800') in {"Id"=>"ba4e6db8-5a58-4226-8d54-e558ea00e138", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Vondrášková Iveta", "CisloProtiuctu"=>"22177 4 7083/0800", "ZpravaProPrijemce"=>"František Znamenáček CV - dar", "VS"=>"", "KS"=>"", "SS"=>"34202", "Castka"=>350.0, "AddId"=>"51201701240279602"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2600037439/201 O') in {"Id"=>"f690bfbf-96d2-4048-95a2-e072d9b2753f", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Řezníčková, lva", "CisloProtiuctu"=>"2600037439/201 O", "ZpravaProPrijemce"=>"Řezníčková 10-12/2016", "VS"=>"7453113052", "KS"=>"0308", "SS"=>"", "Castka"=>1500.0, "AddId"=>"51201701240011790"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '17 4230826/0600') in {"Id"=>"98686cf1-cc4d-46ba-8da4-fc2c742a1656", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-26T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"VITÁK JIŘÍ", "CisloProtiuctu"=>"17 4230826/0600", "ZpravaProPrijemce"=>"Jiří Viták-finanční dar", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>790.0, "AddId"=>"51201701260491180"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '670100-2201996747/621 O') in {"Id"=>"7072e544-53bd-4d0b-8d66-b0717d966a51", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-26T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"VACLAV STEKL", "CisloProtiuctu"=>"670100-2201996747/621 O", "ZpravaProPrijemce"=>"VACLAV STEKL- FINANCNI DAR", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>8806.0, "AddId"=>"51201701260001543"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2900212649/201 O') in {"Id"=>"a3086d25-961f-415b-935f-b0b3332ab280", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Hrůza, Ivan", "CisloProtiuctu"=>"2900212649/201 O", "ZpravaProPrijemce"=>"Ivan Hrůza - finanční dar 2017", "VS"=>"", "KS"=>"", "SS"=>"31106", "Castka"=>2600.0, "AddId"=>"51201701300012549"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '1238430021 /2310') in {"Id"=>"98d096fa-f358-4cf2-825d-47c837ed89f1", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"VÁCLAV HOMOLKA", "CisloProtiuctu"=>"1238430021 /2310", "ZpravaProPrijemce"=>"Dar", "VS"=>"", "KS"=>"", "SS"=>"34202", "Castka"=>5000.0, "AddId"=>"51201701300357589"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2900212649/201 O') in {"Id"=>"986db947-3b9c-45d2-89a1-2d95c88163c6", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Hrůza, Ivan", "CisloProtiuctu"=>"2900212649/201 O", "ZpravaProPrijemce"=>"Ivan Hrůza - finanční dar 2017", "VS"=>"", "KS"=>"", "SS"=>"31100", "Castka"=>12000.0, "AddId"=>"51201701300012628"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"21dfb403-889c-465f-9a17-fb871a501279", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl.zpracování hotovosti", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-9.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"10f2ddc4-bedd-4dd3-9309-3af7bbae8d39", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-výpis z úč.", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-50.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"b82dca12-2a0c-42d4-86cf-9099120e27e5", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-poštovné v ČR", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-80.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"49fbafb8-33b6-43a3-8a19-ff912f1d7401", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-vedení účtu", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-200.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"d4910539-e37d-470d-a830-5f5807279684", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-došlo-man", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-513.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"02c67730-8034-42e0-b0b1-08848d85b7a7", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"TPS-man-došlo-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-117.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"5fb959c6-2ac7-4ae2-ac70-8aa6e1fb929d", "CisloUctu"=>"478648033/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>""}
+ 

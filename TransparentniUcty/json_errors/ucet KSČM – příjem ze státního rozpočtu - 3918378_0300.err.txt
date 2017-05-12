@@ -1,0 +1,28 @@
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"991c68da-271e-420d-a1d8-57a8664865fd", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-04-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-poštovné v ČR", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-16.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"dec7b16b-63af-4f95-bb4c-d35242a478c7", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-04-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-vedení účtu", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-200.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"dfe31377-16f8-42e2-8b63-83d04bdbd541", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-04-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"a76f67e1-88f1-4611-adb6-c50fdc2a9499", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-poštovné v ČR", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-16.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"8005c480-795a-4db5-8461-d3d4ac4af8b2", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-int-D+0", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-40.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"6fa0a54d-9baa-4f1e-ba43-1106cb6d3c8d", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-vedení účtu", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-200.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"cb1c7dd0-83f2-46c5-978e-5a9993998026", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 31MAR17", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>38336.83, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"b599f03a-e8f5-4b97-a9fa-906153f85d4e", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-poštovné v ČR", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-16.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"289773b4-4e9c-4f2e-959a-4f73382767cb", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-vedení účtu", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-200.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"b6fc08f9-917e-4347-a172-2be3ed506410", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-int-D+0", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-40.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"8fb9ed77-f8bc-4558-a45e-c7bedc4a14a2", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-02-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"35338658-cd77-4172-a2f4-9f45f873d108", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-poštovné v ČR", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-16.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"690fd78e-79bf-4ca8-b21c-f04db5dfb6da", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-vedení účtu", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-200.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"2d106b06-8f6f-44a2-a531-07814fdce16e", "CisloUctu"=>"3918378/0300", "Datum"=>"2017-01-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"popl-TPS-man-interní", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>-18.0, "AddId"=>""}
+ 
