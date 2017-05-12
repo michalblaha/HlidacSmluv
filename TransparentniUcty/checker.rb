@@ -31,7 +31,7 @@ REQUIRED_ATTRIBUTES = {
 }
 
 filename = ARGV[0]
-STDERR.puts "Reading #{filename}"
+STDERR.puts "Reading #{filename}\n"
 file = File.read(filename)
 
 data = JSON.parse(file)
@@ -46,18 +46,32 @@ def check_entry(key, value)
 end
 
 err = 0
+errs = {}
 data.each do |entry|
   # check required
   unless entry.keys & required_keys == required_keys
     puts "ERR: missing required attribute! #{entry.inspect}" 
     err += 1
+    has_error = true
   end
   entry.each do |k, v|
     unless check_entry(k, v)
+      errs[k] ||= 0
+      errs[k] += 1
       puts "ERR: invalid attribute '#{k}' (val: '#{v}') in #{entry.inspect}"
       err += 1
+      has_error = true
     end
   end
+  puts " " if has_error
+  has_error = false
 end
+if errs
+  STDERR.printf "%15s | %s\n", 'Field', 'Count'
+  STDERR.puts "-" * 80
+  errs.each do |k,v|
+    STDERR.printf "%15s | %d\n", k, v
+  end
+end
+STDERR.puts "\nEntries: #{data.count}, errors: #{err}"
 
-STDERR.puts "Entries: #{data.count}, errors: #{err}"
