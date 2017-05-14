@@ -1,0 +1,41 @@
+Reading ucet KSČM – finanční dary - 478648033_0300.json
+          Field | Count
+--------------------------------------------------------------------------------
+ CisloProtiuctu | 72
+
+Entries: 217, errors: 72
+
+Reading ucet KSČM – příjem ze státního rozpočtu - 3918378_0300.json
+          Field | Count
+--------------------------------------------------------------------------------
+ CisloProtiuctu | 14
+
+Entries: 19, errors: 14
+
+Reading ucet KSČM – volby do Evropského parlamentu - 117527703_0300.json
+          Field | Count
+--------------------------------------------------------------------------------
+ CisloProtiuctu | 36
+
+Entries: 135, errors: 36
+
+Reading ucet KSČM – volby do Poslanecké sněmovny - 117831473_0300.json
+          Field | Count
+--------------------------------------------------------------------------------
+ CisloProtiuctu | 10
+
+Entries: 22, errors: 10
+
+Reading ucet KSČM – volby do Senátu - 117527893_0300.json
+          Field | Count
+--------------------------------------------------------------------------------
+ CisloProtiuctu | 69
+
+Entries: 282, errors: 69
+
+Reading ucet MICHAL HORÁČEK - 276829741_0300.json
+          Field | Count
+--------------------------------------------------------------------------------
+ CisloProtiuctu | 38
+
+Entries: 93, errors: 38

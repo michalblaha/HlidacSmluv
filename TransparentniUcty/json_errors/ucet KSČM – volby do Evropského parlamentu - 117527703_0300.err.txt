@@ -1,0 +1,72 @@
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"40470cbc-e56a-41d9-9e9a-821db552c10a", "CisloUctu"=>"117527703/0300", "Datum"=>"2016-09-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 30SEP16", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>0.9, "AddId"=>"201609309998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"8b8e1187-eeb9-4967-9a43-f1c28dcbf038", "CisloUctu"=>"117527703/0300", "Datum"=>"2016-06-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 30JUN16", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>1.82, "AddId"=>"201606309998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"de7f9fd3-c06b-4e76-a168-5990e0888063", "CisloUctu"=>"117527703/0300", "Datum"=>"2016-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 31MAR16", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>1.82, "AddId"=>"201603319998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"54c6632f-037e-47c1-a4cf-b0e9f737db13", "CisloUctu"=>"117527703/0300", "Datum"=>"2015-12-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 31DEC15", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>1.84, "AddId"=>"201512319998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"3f294b19-c4eb-43ef-a918-e3397af89f4e", "CisloUctu"=>"117527703/0300", "Datum"=>"2015-09-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 30SEP15", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>1.84, "AddId"=>"201509309998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"744a7120-20fb-4689-a0f1-7f3c29ded84f", "CisloUctu"=>"117527703/0300", "Datum"=>"2015-06-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 30JUN15", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>1.82, "AddId"=>"201506309998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"12e5748a-c12c-4ec9-86ad-698ca5b4b63d", "CisloUctu"=>"117527703/0300", "Datum"=>"2015-03-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 31MAR15", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>1.94, "AddId"=>"201503319998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"75186b6c-83b9-4720-929b-18b0c3ce49e3", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-12-31T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"lnt.App.To 31DEC14", "VS"=>"NONREF", "KS"=>"", "SS"=>"", "Castka"=>2.66, "AddId"=>"201412319998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '43-152022024 7 /0100') in {"Id"=>"9ba98924-4c67-4628-bc1a-aa8771474e3b", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-11-26T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"43-152022024 7 /0100", "ZpravaProPrijemce"=>"vratka", "VS"=>"682", "KS"=>"", "SS"=>"", "Castka"=>-260.0, "AddId"=>"17201411260093643"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '') in {"Id"=>"c4a950d0-d624-4ce0-95f8-c81c09c6bc7d", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-11-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"", "ZpravaProPrijemce"=>"Vklad hotovost", "VS"=>"31101", "KS"=>"", "SS"=>"", "Castka"=>9606.0, "AddId"=>""}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '639541/O100') in {"Id"=>"afcfdd8c-3ca8-4283-8294-43b118f135e2", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-10-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"639541/O100", "ZpravaProPrijemce"=>"PŘEPLATEK VOLBY EU-JIČÍN", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-2800.0, "AddId"=>"17201410240133281"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: 'lnt.App.To 30SEP14') in {"Id"=>"064ee66f-669b-4fc0-8867-1b53ad0a75c3", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-09-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"lnt.App.To 30SEP14", "ZpravaProPrijemce"=>"", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>2.25, "AddId"=>"201409309998"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '3423357 4/0600') in {"Id"=>"5294bb12-5b21-4441-a1ba-bde17c1a2350", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-08-06T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"3423357 4/0600", "ZpravaProPrijemce"=>"volby eu-výlep plakátů jiří jaroš", "VS"=>"8062014", "KS"=>"", "SS"=>"", "Castka"=>-9800.0, "AddId"=>"17201408060070665"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '1116267 43/0300') in {"Id"=>"c1d54c85-0ba1-46d1-a6b0-164e726328f2", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-05T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"1116267 43/0300", "ZpravaProPrijemce"=>"volby eu-tisková konference", "VS"=>"1414", "KS"=>"", "SS"=>"", "Castka"=>-6050.0, "AddId"=>"17201406050097087"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '78-2876490277 /0100') in {"Id"=>"78602221-b4f0-4f00-86c2-1857c608566e", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-13T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"78-2876490277 /0100", "ZpravaProPrijemce"=>"VOLBY EU REKLAMNÍ PŘEDMĚTY BABKA SR", "VS"=>"2140182", "KS"=>"", "SS"=>"", "Castka"=>-10149.0, "AddId"=>"17201406130296814"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '212186601 /0300') in {"Id"=>"209bfb46-503b-4079-91f7-52975f1f6749", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-16T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"212186601 /0300", "ZpravaProPrijemce"=>"volby EU-výlep. plakátů Eko Bi s.r.", "VS"=>"14100052", "KS"=>"", "SS"=>"", "Castka"=>-823.0, "AddId"=>"17201406160328942"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '132311 003/2700') in {"Id"=>"6b18c8b5-bff8-4a74-983f-cd62f6693ee4", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"132311 003/2700", "ZpravaProPrijemce"=>"VOLBY EU-AKCE ANDĚL EL TODO-CITELUM", "VS"=>"3214343198", "KS"=>"", "SS"=>"", "Castka"=>-40.0, "AddId"=>"17201406240109326"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '100393657 /0300') in {"Id"=>"0b80535a-6329-4303-bd27-e0d70670ad1c", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"100393657 /0300", "ZpravaProPrijemce"=>"VOLBY EU-ROZNÁŠKA ČESKÁ POŠTA,S.P.", "VS"=>"5105670865", "KS"=>"", "SS"=>"", "Castka"=>-271.0, "AddId"=>"17201406240107505"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '100393657 /0300') in {"Id"=>"d385ca45-45ff-495d-825d-b6ef682e37a5", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"100393657 /0300", "ZpravaProPrijemce"=>"VOLBY EU-ROZNÁŠKA ČESKÁ POŠTA,S.P.", "VS"=>"5105670864", "KS"=>"", "SS"=>"", "Castka"=>-322.5, "AddId"=>"17201406240107506"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6257350257 /0100') in {"Id"=>"299879e3-ac1f-4a7d-8970-9d12ce5dd567", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"19-6257350257 /0100", "ZpravaProPrijemce"=>"VOLBY EU-VÝLEP PLAKÁTŮ RENGL.S.R.O.", "VS"=>"10152499", "KS"=>"", "SS"=>"", "Castka"=>-635.0, "AddId"=>"17201406240109324"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '932561/O100') in {"Id"=>"1a409550-90d3-40cb-be51-4ac3e5830f76", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-06-24T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"932561/O100", "ZpravaProPrijemce"=>"VOLBY EU-MITINK VÝCHODOČESKÉ", "VS"=>"2014099", "KS"=>"", "SS"=>"", "Castka"=>-3331.0, "AddId"=>"17201406240109322"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '832691/O100') in {"Id"=>"e30af158-0db6-48a8-92fa-d030bc64ff3c", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-15T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"OKRESNÍ VÝBOR KSČM K", "CisloProtiuctu"=>"832691/O100", "ZpravaProPrijemce"=>"", "VS"=>"37201", "KS"=>"0308", "SS"=>"", "Castka"=>4000.0, "AddId"=>"51201405150084976"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6257350257 /0100') in {"Id"=>"4376eba4-f87a-4872-a694-731f18f0f529", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-16T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"19-6257350257 /0100", "ZpravaProPrijemce"=>"VOLBY EU-VÝLEP PLAKÁTŮ RENGL,S.R.O.", "VS"=>"10151812", "KS"=>"", "SS"=>"", "Castka"=>-3288.0, "AddId"=>"17201405160177155"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6257350257 /0100') in {"Id"=>"5be4b474-1bd5-4498-8d21-5e9b7dcd5650", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-19T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"19-6257350257 /0100", "ZpravaProPrijemce"=>"volby EU-výlep plakátů", "VS"=>"1025297", "KS"=>"", "SS"=>"", "Castka"=>-5521.0, "AddId"=>"17201405190243547"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '21153591 0/0300') in {"Id"=>"43f347e9-def9-49e0-8059-f713021329d2", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-19T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"21153591 0/0300", "ZpravaProPrijemce"=>"volby EU-hud.vystoupení", "VS"=>"990", "KS"=>"", "SS"=>"", "Castka"=>-6500.0, "AddId"=>"17201405190243551"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '10006- 7 503524/0600') in {"Id"=>"f3b8e043-7d34-4d17-a27d-07f265e7d900", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-22T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"10006- 7 503524/0600", "ZpravaProPrijemce"=>"volby eu-nájem a občerstvení", "VS"=>"6096", "KS"=>"", "SS"=>"", "Castka"=>-2239.0, "AddId"=>"17201405220117145"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '43-994887024 7 /0100') in {"Id"=>"30ff43bb-82b6-4f27-ba00-c3dd25e93628", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-22T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"43-994887024 7 /0100", "ZpravaProPrijemce"=>"volby eu-výlep plakátů", "VS"=>"14051", "KS"=>"", "SS"=>"", "Castka"=>-2608.0, "AddId"=>"17201405220117150"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6257350257 /0100') in {"Id"=>"b5385268-b710-4bb4-8e79-fb090f6b0d1a", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-23T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"19-6257350257 /0100", "ZpravaProPrijemce"=>"volby eu-výlep plakátů", "VS"=>"10152097", "KS"=>"", "SS"=>"", "Castka"=>-861.0, "AddId"=>"17201405230103329"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6257350257 /0100') in {"Id"=>"c58d89de-9bb8-4056-a597-bad6fd1c051f", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-23T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"19-6257350257 /0100", "ZpravaProPrijemce"=>"volby eu-výlep plakátů", "VS"=>"10152108", "KS"=>"", "SS"=>"", "Castka"=>-3025.0, "AddId"=>"17201405230103330"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '100393657 /0300') in {"Id"=>"0eaef468-6b5e-4df6-b5de-f55eb8c83086", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"100393657 /0300", "ZpravaProPrijemce"=>"volby eu-roznáška česká pošta s.p.", "VS"=>"5106853117", "KS"=>"", "SS"=>"", "Castka"=>-1135.0, "AddId"=>"17201405280123651"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6257350257 /0100') in {"Id"=>"2c83f60a-3446-406f-b0c7-d40ec9656044", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"19-6257350257 /0100", "ZpravaProPrijemce"=>"volby eu-výlep plakátů rengl,s.r.o.", "VS"=>"10152133", "KS"=>"", "SS"=>"", "Castka"=>-1312.0, "AddId"=>"17201405280123648"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '19-6257350257 /0100') in {"Id"=>"2d25612d-a25d-4ed6-a28b-2756854f8acc", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-28T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"19-6257350257 /0100", "ZpravaProPrijemce"=>"volby eu-výlep plakátů rengl,s.r.o.", "VS"=>"10152134", "KS"=>"", "SS"=>"", "Castka"=>-1601.0, "AddId"=>"17201405280123649"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '2600578964/201 O') in {"Id"=>"7f7efa16-21ee-442a-8c74-cb8c5a4e64ef", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-05-29T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"2600578964/201 O", "ZpravaProPrijemce"=>"volby eu-výlep plakatu", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>-492.0, "AddId"=>"17201405290157430"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '43-87 45970227 /0100') in {"Id"=>"06da7975-a223-4389-8809-1ae955cc6b6e", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-04-25T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"43-87 45970227 /0100", "ZpravaProPrijemce"=>"volby eu-tiskoviny", "VS"=>"140100137", "KS"=>"", "SS"=>"", "Castka"=>-2406.0, "AddId"=>"17201404250060341"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: 'PL82249010570000990918831917/ALBPPLPW') in {"Id"=>"d581441a-3c0d-4ef7-be4b-f77fe30a5ce9", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-04-30T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"Robin Lustig", "CisloProtiuctu"=>"PL82249010570000990918831917/ALBPPLPW", "ZpravaProPrijemce"=>"B/O Robin Lustig", "VS"=>"", "KS"=>"", "SS"=>"", "Castka"=>0.09, "AddId"=>"4119568404"}
+ 
+ERR: invalid attribute 'CisloProtiuctu' (val: '96014-3605881 /0710') in {"Id"=>"71a711fe-28ca-45a8-8b69-225da2f680f2", "CisloUctu"=>"117527703/0300", "Datum"=>"2014-02-26T00:00:00", "PopisTransakce"=>"", "NazevProtiuctu"=>"", "CisloProtiuctu"=>"96014-3605881 /0710", "ZpravaProPrijemce"=>"", "VS"=>"496936", "KS"=>"0558", "SS"=>"", "Castka"=>-15000.0, "AddId"=>"17201402260115749"}
+ 
